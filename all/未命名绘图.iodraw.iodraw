@@ -62,16 +62,7 @@
             <mxPoint x="330" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4dvjk6UQPTGsRtLl7d-j-73" value="&lt;font size=&quot;1&quot;&gt;三级准确率&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="230" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="4dvjk6UQPTGsRtLl7d-j-74" value="&lt;font size=&quot;1&quot;&gt;终止时间&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="260" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="4dvjk6UQPTGsRtLl7d-j-75" value="&lt;font size=&quot;1&quot;&gt;最终准确率&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="290" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="4dvjk6UQPTGsRtLl7d-j-76" value="&lt;font size=&quot;1&quot;&gt;平均迭代时间&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4dvjk6UQPTGsRtLl7d-j-76" value="&lt;font size=&quot;1&quot;&gt;迭代时间&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="230" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4dvjk6UQPTGsRtLl7d-j-81" value="&lt;font size=&quot;1&quot;&gt;平均迭代时间&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -94,6 +85,18 @@
         </mxCell>
         <mxCell id="4dvjk6UQPTGsRtLl7d-j-87" value="&lt;font size=&quot;1&quot;&gt;平均迭代时间&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="185" y="350" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4dvjk6UQPTGsRtLl7d-j-88" value="&lt;font size=&quot;1&quot;&gt;平均迭代时间&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="230" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4dvjk6UQPTGsRtLl7d-j-89" value="&lt;font size=&quot;1&quot;&gt;平均迭代时间&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="270" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4dvjk6UQPTGsRtLl7d-j-90" value="&lt;font size=&quot;1&quot;&gt;平均迭代时间&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="310" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4dvjk6UQPTGsRtLl7d-j-91" value="&lt;font size=&quot;1&quot;&gt;平均迭代时间&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="350" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
