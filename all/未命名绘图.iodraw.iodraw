@@ -91,7 +91,7 @@
           <mxGeometry x="10" y="180" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4dvjk6UQPTGsRtLl7d-j-116" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;测试项&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="10" y="295" width="70" height="30" as="geometry" />
+          <mxGeometry x="10" y="275" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wQp8l8YKCByNg3zhK9Hw-8" value="&lt;font size=&quot;1&quot;&gt;迭代序号&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="430" width="70" height="20" as="geometry" />
@@ -176,13 +176,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Zo-TAjxWsslrsXd5C2Ax-1" value="&lt;font size=&quot;1&quot;&gt;迭代序号&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="305" width="60" height="20" as="geometry" />
+          <mxGeometry x="110" y="303" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Zo-TAjxWsslrsXd5C2Ax-2" value="&lt;font size=&quot;1&quot;&gt;迭代序号&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="515" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Zo-TAjxWsslrsXd5C2Ax-3" value="&lt;font size=&quot;1&quot;&gt;通讯次数&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="270" width="60" height="20" as="geometry" />
+          <mxGeometry x="110" y="267" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Zo-TAjxWsslrsXd5C2Ax-4" value="&lt;font size=&quot;1&quot;&gt;函数值&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="340" width="60" height="20" as="geometry" />
