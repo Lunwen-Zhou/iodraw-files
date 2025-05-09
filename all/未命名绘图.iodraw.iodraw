@@ -82,8 +82,11 @@
         </mxCell>
         <mxCell id="4dvjk6UQPTGsRtLl7d-j-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=circle;endFill=0;endSize=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="194.86" y="360" as="sourcePoint" />
-            <mxPoint x="170" y="370" as="targetPoint" />
+            <mxPoint x="224.86" y="380" as="sourcePoint" />
+            <mxPoint x="200" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="225" y="390" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="4dvjk6UQPTGsRtLl7d-j-114" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;研究内容&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
