@@ -182,10 +182,16 @@
         <mxCell id="Zo-TAjxWsslrsXd5C2Ax-4" value="&lt;font size=&quot;1&quot;&gt;函数值&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="335" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Zo-TAjxWsslrsXd5C2Ax-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=circle;endFill=0;endSize=1;" edge="1" parent="1">
+        <mxCell id="Zo-TAjxWsslrsXd5C2Ax-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=circle;endFill=0;endSize=1;" edge="1" parent="1" target="Zo-TAjxWsslrsXd5C2Ax-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="205" y="220" as="sourcePoint" />
+            <mxPoint x="190" y="270" as="sourcePoint" />
             <mxPoint x="180" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="185" y="220" />
+              <mxPoint x="185" y="243" />
+              <mxPoint x="190" y="243" />
+              <mxPoint x="190" y="275" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
