@@ -68,13 +68,13 @@
         <mxCell id="4dvjk6UQPTGsRtLl7d-j-81" value="&lt;font size=&quot;1&quot;&gt;迭代次数&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="270" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4dvjk6UQPTGsRtLl7d-j-82" value="&lt;font size=&quot;1&quot;&gt;平均迭代时间&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4dvjk6UQPTGsRtLl7d-j-82" value="&lt;font size=&quot;1&quot;&gt;通信次数&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="310" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4dvjk6UQPTGsRtLl7d-j-83" value="&lt;font size=&quot;1&quot;&gt;平均迭代时间&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4dvjk6UQPTGsRtLl7d-j-83" value="&lt;font size=&quot;1&quot;&gt;函数值&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="350" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4dvjk6UQPTGsRtLl7d-j-84" value="&lt;font size=&quot;1&quot;&gt;平均迭代时间&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4dvjk6UQPTGsRtLl7d-j-84" value="&lt;font size=&quot;1&quot;&gt;三级准确率&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="185" y="230" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4dvjk6UQPTGsRtLl7d-j-85" value="&lt;font size=&quot;1&quot;&gt;平均迭代时间&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
