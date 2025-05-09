@@ -62,29 +62,17 @@
             <mxPoint x="330" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4dvjk6UQPTGsRtLl7d-j-56" value="&lt;font size=&quot;1&quot;&gt;迭代时间&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="95" y="230" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="4dvjk6UQPTGsRtLl7d-j-57" value="&lt;font size=&quot;1&quot;&gt;迭代次数&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="95" y="260" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="4dvjk6UQPTGsRtLl7d-j-58" value="&lt;font size=&quot;1&quot;&gt;通信次数&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="95" y="290" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="4dvjk6UQPTGsRtLl7d-j-59" value="&lt;font size=&quot;1&quot;&gt;函数值&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="95" y="320" width="60" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="4dvjk6UQPTGsRtLl7d-j-73" value="&lt;font size=&quot;1&quot;&gt;三级准确率&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="230" width="60" height="20" as="geometry" />
+          <mxGeometry x="300" y="230" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4dvjk6UQPTGsRtLl7d-j-74" value="&lt;font size=&quot;1&quot;&gt;终止时间&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="260" width="60" height="20" as="geometry" />
+          <mxGeometry x="300" y="260" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4dvjk6UQPTGsRtLl7d-j-75" value="&lt;font size=&quot;1&quot;&gt;最终准确率&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="290" width="60" height="20" as="geometry" />
+          <mxGeometry x="300" y="290" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4dvjk6UQPTGsRtLl7d-j-76" value="&lt;font size=&quot;1&quot;&gt;平均迭代时间&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="320" width="70" height="20" as="geometry" />
+          <mxGeometry x="90" y="230" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
