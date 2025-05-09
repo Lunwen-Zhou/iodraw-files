@@ -126,9 +126,6 @@
         <mxCell id="Zo-TAjxWsslrsXd5C2Ax-28" value="&lt;font size=&quot;1&quot;&gt;通讯次数&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="267" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Zo-TAjxWsslrsXd5C2Ax-29" value="&lt;font size=&quot;1&quot;&gt;函数值&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="340" width="60" height="20" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
