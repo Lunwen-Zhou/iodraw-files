@@ -57,8 +57,8 @@
             <mxPoint x="417" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4dvjk6UQPTGsRtLl7d-j-76" value="&lt;font size=&quot;1&quot;&gt;迭代时间&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="230" width="70" height="20" as="geometry" />
+        <mxCell id="4dvjk6UQPTGsRtLl7d-j-76" value="&lt;font size=&quot;1&quot;&gt;总迭代次数&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="230" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4dvjk6UQPTGsRtLl7d-j-81" value="&lt;font size=&quot;1&quot;&gt;迭代次数&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="360" width="70" height="20" as="geometry" />
