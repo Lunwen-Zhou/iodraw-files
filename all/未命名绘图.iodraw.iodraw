@@ -108,7 +108,7 @@
         <mxCell id="wQp8l8YKCByNg3zhK9Hw-21" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;迭代序号&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="230" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Zo-TAjxWsslrsXd5C2Ax-1" value="&lt;font size=&quot;1&quot;&gt;迭代序号&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Zo-TAjxWsslrsXd5C2Ax-1" value="&lt;font size=&quot;1&quot;&gt;通信次数&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="303" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Zo-TAjxWsslrsXd5C2Ax-2" value="&lt;font size=&quot;1&quot;&gt;迭代序号&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
