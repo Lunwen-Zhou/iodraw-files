@@ -123,11 +123,20 @@
         <mxCell id="Zo-TAjxWsslrsXd5C2Ax-26" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;迭代序号&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="230" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Zo-TAjxWsslrsXd5C2Ax-27" value="&lt;font size=&quot;1&quot;&gt;迭代序号&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Zo-TAjxWsslrsXd5C2Ax-27" value="&lt;font size=&quot;1&quot;&gt;运行时间&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="303" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Zo-TAjxWsslrsXd5C2Ax-28" value="&lt;font size=&quot;1&quot;&gt;子空间距离&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="267" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zo-TAjxWsslrsXd5C2Ax-38" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;迭代序号&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="240" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zo-TAjxWsslrsXd5C2Ax-39" value="&lt;font size=&quot;1&quot;&gt;运行时间&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="313" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zo-TAjxWsslrsXd5C2Ax-40" value="&lt;font size=&quot;1&quot;&gt;子空间距离&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="277" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
