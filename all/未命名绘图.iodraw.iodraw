@@ -142,7 +142,7 @@
           <mxGeometry x="10" y="270" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wQp8l8YKCByNg3zhK9Hw-5" value="每次迭代中" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="100" y="280" width="130" height="45" as="geometry" />
+          <mxGeometry x="100" y="280" width="70" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
