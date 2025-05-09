@@ -182,8 +182,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zo-TAjxWsslrsXd5C2Ax-1" value="&lt;font size=&quot;1&quot;&gt;子空间距离&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="105" y="245" width="60" height="20" as="geometry" />
+        <mxCell id="Zo-TAjxWsslrsXd5C2Ax-1" value="&lt;font size=&quot;1&quot;&gt;迭代序号&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="275" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zo-TAjxWsslrsXd5C2Ax-2" value="&lt;font size=&quot;1&quot;&gt;迭代序号&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="285" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
