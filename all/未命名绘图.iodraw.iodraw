@@ -188,6 +188,9 @@
         <mxCell id="Zo-TAjxWsslrsXd5C2Ax-2" value="&lt;font size=&quot;1&quot;&gt;迭代序号&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="390" width="60" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Zo-TAjxWsslrsXd5C2Ax-3" value="&lt;font size=&quot;1&quot;&gt;通讯次数&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="300" width="60" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
