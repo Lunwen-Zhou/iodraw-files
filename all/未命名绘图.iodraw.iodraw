@@ -92,7 +92,7 @@
           <mxGeometry x="10" y="295" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wQp8l8YKCByNg3zhK9Hw-8" value="&lt;font size=&quot;1&quot;&gt;计算时间&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="370" width="70" height="20" as="geometry" />
+          <mxGeometry x="100" y="280" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wQp8l8YKCByNg3zhK9Hw-14" value="&lt;span style=&quot;font-size: x-small;&quot;&gt;最终准确率&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="255" width="70" height="20" as="geometry" />
