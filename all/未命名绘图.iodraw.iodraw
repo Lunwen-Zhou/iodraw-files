@@ -138,6 +138,59 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="wQp8l8YKCByNg3zhK9Hw-14" value="&lt;span style=&quot;font-size: x-small;&quot;&gt;总迭代次数&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="255" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wQp8l8YKCByNg3zhK9Hw-15" value="&lt;font size=&quot;1&quot;&gt;通信次数&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="340" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wQp8l8YKCByNg3zhK9Hw-16" value="&lt;font size=&quot;1&quot;&gt;函数值&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="380" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wQp8l8YKCByNg3zhK9Hw-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=circle;endFill=0;endSize=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="295" y="280" as="sourcePoint" />
+            <mxPoint x="295" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wQp8l8YKCByNg3zhK9Hw-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=circle;endFill=0;endSize=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="294.91999999999996" y="320" as="sourcePoint" />
+            <mxPoint x="294.91999999999996" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wQp8l8YKCByNg3zhK9Hw-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=circle;endFill=0;endSize=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="294.92" y="360" as="sourcePoint" />
+            <mxPoint x="294.92" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wQp8l8YKCByNg3zhK9Hw-20" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;每次迭代中&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="250" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wQp8l8YKCByNg3zhK9Hw-21" value="&lt;font size=&quot;1&quot;&gt;计算时间&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="300" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wQp8l8YKCByNg3zhK9Hw-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=circle;endFill=0;endSize=1;" edge="1" parent="1" target="wQp8l8YKCByNg3zhK9Hw-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="334.79999999999995" y="210" as="sourcePoint" />
+            <mxPoint x="334.79999999999995" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="335" y="230" />
+              <mxPoint x="295" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wQp8l8YKCByNg3zhK9Hw-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=circle;endFill=0;endSize=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="230" as="sourcePoint" />
+            <mxPoint x="375" y="255" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="230" />
+              <mxPoint x="375" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
