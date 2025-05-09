@@ -84,7 +84,16 @@
           <mxGeometry x="90" y="350" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4dvjk6UQPTGsRtLl7d-j-84" value="&lt;font size=&quot;1&quot;&gt;平均迭代时间&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="270" width="70" height="20" as="geometry" />
+          <mxGeometry x="185" y="230" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4dvjk6UQPTGsRtLl7d-j-85" value="&lt;font size=&quot;1&quot;&gt;平均迭代时间&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="270" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4dvjk6UQPTGsRtLl7d-j-86" value="&lt;font size=&quot;1&quot;&gt;平均迭代时间&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="310" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4dvjk6UQPTGsRtLl7d-j-87" value="&lt;font size=&quot;1&quot;&gt;平均迭代时间&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="350" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
