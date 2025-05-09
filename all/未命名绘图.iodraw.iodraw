@@ -104,8 +104,31 @@
             <mxPoint x="314.91999999999996" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="wQp8l8YKCByNg3zhK9Hw-20" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;每次迭代中&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="250" width="70" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="wQp8l8YKCByNg3zhK9Hw-21" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;子空间距离&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="230" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wQp8l8YKCByNg3zhK9Hw-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=circle;endFill=0;endSize=1;" parent="1" target="wQp8l8YKCByNg3zhK9Hw-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="354.79999999999995" y="210" as="sourcePoint" />
+            <mxPoint x="354.79999999999995" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="355" y="230" />
+              <mxPoint x="315" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wQp8l8YKCByNg3zhK9Hw-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=circle;endFill=0;endSize=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="230" as="sourcePoint" />
+            <mxPoint x="395" y="255" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="230" />
+              <mxPoint x="395" y="230" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="wQp8l8YKCByNg3zhK9Hw-24" value="&lt;span style=&quot;font-size: x-small;&quot;&gt;最终NMI&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="255" width="70" height="20" as="geometry" />
@@ -158,10 +181,19 @@
           <mxGeometry x="300" y="515" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Zo-TAjxWsslrsXd5C2Ax-3" value="&lt;font size=&quot;1&quot;&gt;通讯次数&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="260" width="60" height="20" as="geometry" />
+          <mxGeometry x="220" y="270" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Zo-TAjxWsslrsXd5C2Ax-4" value="&lt;font size=&quot;1&quot;&gt;函数值&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="325" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zo-TAjxWsslrsXd5C2Ax-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=circle;endFill=0;endSize=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="194.86" y="265" as="sourcePoint" />
+            <mxPoint x="170" y="275" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="195" y="275" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Zo-TAjxWsslrsXd5C2Ax-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=circle;endFill=0;endSize=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
