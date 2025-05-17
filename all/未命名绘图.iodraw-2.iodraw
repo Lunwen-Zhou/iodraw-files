@@ -11,10 +11,10 @@
           <mxGeometry x="165" y="73" width="10.8" height="10" as="geometry" />
         </mxCell>
         <mxCell id="i07ReR63tDp5S0AWG5DD-3" value="G是否仍含边" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="105" y="110" width="110" height="50" as="geometry" />
+          <mxGeometry x="107.5" y="120" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="i07ReR63tDp5S0AWG5DD-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="107.5" y="180" width="105" height="50" as="geometry" />
+          <mxGeometry x="107.5" y="190" width="105" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
