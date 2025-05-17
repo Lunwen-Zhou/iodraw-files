@@ -11,7 +11,7 @@
           <mxGeometry x="165" y="73" width="10.8" height="10" as="geometry" />
         </mxCell>
         <mxCell id="i07ReR63tDp5S0AWG5DD-3" value="G是否仍含边" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="110" width="100" height="50" as="geometry" />
+          <mxGeometry x="105" y="110" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
