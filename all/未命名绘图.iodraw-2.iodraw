@@ -13,10 +13,10 @@
         <mxCell id="i07ReR63tDp5S0AWG5DD-3" value="&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;G&lt;/i&gt;&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;是否仍含边&lt;/font&gt;&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="25" y="147" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="i07ReR63tDp5S0AWG5DD-4" value="&lt;font face=&quot;宋体&quot;&gt;随机红蓝着色，&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;生成分区集合P&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
+        <mxCell id="i07ReR63tDp5S0AWG5DD-4" value="&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;随机红蓝着色，&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;生成分区集合&lt;i&gt;P&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="171" y="152" width="105" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="i07ReR63tDp5S0AWG5DD-6" value="构造分区子图" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
+        <mxCell id="i07ReR63tDp5S0AWG5DD-6" value="&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;构造分区子图&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="315" y="152" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i07ReR63tDp5S0AWG5DD-9" value="随机红蓝着色，&lt;div&gt;生成分区集合P&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
