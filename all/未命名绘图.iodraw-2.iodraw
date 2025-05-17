@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="W0cc7kJEJL3Lym5eRuW5">
-    <mxGraphModel dx="684" dy="396" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="814" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,17 +16,8 @@
         <mxCell id="i07ReR63tDp5S0AWG5DD-4" value="&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;随机红蓝着色，&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;生成分区集合&lt;i&gt;P&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="156" y="163.75" width="99" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="i07ReR63tDp5S0AWG5DD-9" value="随机红蓝着色，&lt;div&gt;生成分区集合P&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="240" width="105" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="i07ReR63tDp5S0AWG5DD-10" value="收缩满足-近似最优条件的活页边" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="310" width="105" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="i07ReR63tDp5S0AWG5DD-12" value="&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;&amp;nbsp;输入：相似&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;图&lt;/font&gt;&lt;i style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;G&lt;/i&gt;&lt;font face=&quot;宋体&quot;&gt;,&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial; font-family: 宋体;&quot;&gt;误差&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial; font-family: 宋体;&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="77" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="i07ReR63tDp5S0AWG5DD-14" value="收缩满足-近似最优条件的活跃边" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="262.5" width="99" height="40" as="geometry" />
+          <mxGeometry x="565.5" y="77" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i07ReR63tDp5S0AWG5DD-16" value="&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;收缩满足&amp;nbsp; &amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;-近似最优条件的活跃边&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;&quot; face=&quot;宋体&quot;&gt;&lt;b&gt;更新&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="425" y="159.38" width="120" height="51.25" as="geometry" />
