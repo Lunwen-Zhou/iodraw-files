@@ -11,10 +11,10 @@
           <mxGeometry x="75" y="100" width="10.8" height="10" as="geometry" />
         </mxCell>
         <mxCell id="i07ReR63tDp5S0AWG5DD-3" value="&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;G&lt;/i&gt;&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;是否仍含边&lt;/font&gt;&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="15" y="147" width="110" height="50" as="geometry" />
+          <mxGeometry x="10" y="160" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="i07ReR63tDp5S0AWG5DD-4" value="&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;随机红蓝着色，&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;生成分区集合&lt;i&gt;P&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="161" y="152" width="99" height="40" as="geometry" />
+          <mxGeometry x="156" y="165" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i07ReR63tDp5S0AWG5DD-6" value="&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;构造分区子图&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="300" width="105" height="40" as="geometry" />
@@ -29,10 +29,10 @@
           <mxGeometry x="610" y="77" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i07ReR63tDp5S0AWG5DD-13" value="&lt;b style=&quot;font-family: 宋体;&quot;&gt;构造分区子图&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="152" width="99" height="40" as="geometry" />
+          <mxGeometry x="285" y="165" width="99" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="i07ReR63tDp5S0AWG5DD-14" value="&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;随机红蓝着色，&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;生成分区集合&lt;i&gt;P&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="152" width="99" height="40" as="geometry" />
+        <mxCell id="i07ReR63tDp5S0AWG5DD-14" value="收缩满足-近似最优条件的活跃边" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="165" width="99" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
