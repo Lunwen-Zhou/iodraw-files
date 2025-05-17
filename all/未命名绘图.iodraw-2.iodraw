@@ -73,7 +73,7 @@
         <mxCell id="i07ReR63tDp5S0AWG5DD-39" value="&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;否&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="58.900000000000006" y="220" width="25" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="i07ReR63tDp5S0AWG5DD-40" value="&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;并行&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="i07ReR63tDp5S0AWG5DD-40" value="&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;并行遍历每个分区&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="300" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
