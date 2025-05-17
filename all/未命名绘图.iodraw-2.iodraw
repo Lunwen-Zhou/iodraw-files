@@ -94,6 +94,18 @@
         <mxCell id="T6O3PV9HhsFmtWYfhQnZ-10" value="&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;对每条边计算&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="235" y="340" width="99" height="42.5" as="geometry" />
         </mxCell>
+        <mxCell id="T6O3PV9HhsFmtWYfhQnZ-12" value="&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;G&lt;/i&gt;&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;是否仍含边&lt;/font&gt;&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="169" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T6O3PV9HhsFmtWYfhQnZ-13" value="&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;是&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="171.5" width="25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T6O3PV9HhsFmtWYfhQnZ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=blockThin;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="131" y="193.82999999999998" as="sourcePoint" />
+            <mxPoint x="166" y="193.82999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
