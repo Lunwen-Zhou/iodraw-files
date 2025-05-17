@@ -14,7 +14,7 @@
           <mxGeometry x="105" y="120" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="i07ReR63tDp5S0AWG5DD-4" value="随机红蓝着色，&lt;div&gt;生成分区集合P&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="107.5" y="210" width="105" height="40" as="geometry" />
+          <mxGeometry x="250" y="125" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i07ReR63tDp5S0AWG5DD-6" value="随机红蓝着色，&lt;div&gt;生成分区集合P&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="280" width="105" height="40" as="geometry" />
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="i07ReR63tDp5S0AWG5DD-10" value="随机红蓝着色，&lt;div&gt;生成分区集合P&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="350" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i07ReR63tDp5S0AWG5DD-12" value="&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;&amp;nbsp;输入：相似&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;图&lt;/font&gt;&lt;i style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;G&lt;/i&gt;&lt;font face=&quot;宋体&quot;&gt;,&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial; font-family: 宋体;&quot;&gt;误差&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial; font-family: 宋体;&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="420" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
