@@ -55,7 +55,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="i07ReR63tDp5S0AWG5DD-21" value="&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;将分区内合并结果收缩回&lt;/font&gt;&lt;i style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;G&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
+        <mxCell id="i07ReR63tDp5S0AWG5DD-21" value="&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;将分区内合并&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;结果收缩回&lt;/font&gt;&lt;i style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;G&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="576" y="163.75" width="99" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="i07ReR63tDp5S0AWG5DD-33" value="&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;是&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -74,7 +74,7 @@
           <mxGeometry x="58.900000000000006" y="220" width="25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="i07ReR63tDp5S0AWG5DD-40" value="&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;并行遍历每个分区&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="300" width="60" height="20" as="geometry" />
+          <mxGeometry x="250" y="220" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
