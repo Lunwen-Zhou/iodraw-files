@@ -37,8 +37,8 @@
         <mxCell id="i07ReR63tDp5S0AWG5DD-15" value="&lt;b style=&quot;font-family: 宋体;&quot;&gt;构造分区子图&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="280" width="99" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="i07ReR63tDp5S0AWG5DD-16" value="收缩满足-近似最优条件的活跃边" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="148.75" width="99" height="72.5" as="geometry" />
+        <mxCell id="i07ReR63tDp5S0AWG5DD-16" value="&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;收缩满足&amp;nbsp; &amp;nbsp; &amp;nbsp;-近似最优条件的活跃边&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;qmy6_QNFe5zTPNzCIHk2&quot;&gt;&lt;b&gt;更新&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="148.75" width="99" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="i07ReR63tDp5S0AWG5DD-17" value="&lt;b style=&quot;font-family: 宋体;&quot;&gt;构造分区子图&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="163.75" width="99" height="42.5" as="geometry" />
