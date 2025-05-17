@@ -106,8 +106,8 @@
             <mxPoint x="536" y="429.83" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T6O3PV9HhsFmtWYfhQnZ-15" value="&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;对每条边计算&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="310" width="99" height="42.5" as="geometry" />
+        <mxCell id="T6O3PV9HhsFmtWYfhQnZ-15" value="&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;选择边xy满足&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="310" width="99" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
