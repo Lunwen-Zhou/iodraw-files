@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="W0cc7kJEJL3Lym5eRuW5">
-    <mxGraphModel dx="684" dy="396" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="977" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="10" y="160" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="i07ReR63tDp5S0AWG5DD-4" value="&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;随机红蓝着色，&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;生成分区集合&lt;i&gt;P&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="163.75" width="99" height="42.5" as="geometry" />
+          <mxGeometry x="140" y="163.75" width="99" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="i07ReR63tDp5S0AWG5DD-9" value="随机红蓝着色，&lt;div&gt;生成分区集合P&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="240" width="105" height="40" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="457.75" y="193.63" width="72.5" height="14.99" as="geometry" />
         </mxCell>
         <mxCell id="i07ReR63tDp5S0AWG5DD-21" value="&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;将分区内合并结果收缩回&lt;/font&gt;&lt;i style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;G&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="163.75" width="99" height="42.5" as="geometry" />
+          <mxGeometry x="576" y="163.75" width="99" height="42.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
