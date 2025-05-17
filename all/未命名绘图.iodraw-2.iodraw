@@ -16,8 +16,11 @@
         <mxCell id="i07ReR63tDp5S0AWG5DD-4" value="随机红蓝着色，&lt;div&gt;生成分区集合P&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="107.5" y="190" width="105" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="i07ReR63tDp5S0AWG5DD-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="170" width="120" height="60" as="geometry" />
+        <mxCell id="i07ReR63tDp5S0AWG5DD-6" value="随机红蓝着色，&lt;div&gt;生成分区集合P&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="270" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i07ReR63tDp5S0AWG5DD-7" value="随机红蓝着色，&lt;div&gt;生成分区集合P&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="127.5" y="210" width="105" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
