@@ -83,13 +83,16 @@
           <mxGeometry x="144.9" y="443" width="10.8" height="10" as="geometry" />
         </mxCell>
         <mxCell id="T6O3PV9HhsFmtWYfhQnZ-4" value="" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="223.9" y="330" width="99" height="60" as="geometry" />
+          <mxGeometry x="230.5" y="330" width="99" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T6O3PV9HhsFmtWYfhQnZ-6" value="&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;随机红蓝着色，&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;生成分区集合&lt;i&gt;P&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="223.9" y="410.5" width="99" height="42.5" as="geometry" />
+          <mxGeometry x="230.5" y="410.5" width="99" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="T6O3PV9HhsFmtWYfhQnZ-7" value="&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;建立最大堆保存当前最大的&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="223.9" y="480" width="99" height="42.5" as="geometry" />
+          <mxGeometry x="230.5" y="480" width="99" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="T6O3PV9HhsFmtWYfhQnZ-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="220" y="320" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
