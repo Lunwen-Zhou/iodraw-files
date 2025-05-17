@@ -14,10 +14,10 @@
           <mxGeometry x="25" y="147" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="i07ReR63tDp5S0AWG5DD-4" value="&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;随机红蓝着色，&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;生成分区集合&lt;i&gt;P&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="171" y="152" width="105" height="40" as="geometry" />
+          <mxGeometry x="171" y="152" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i07ReR63tDp5S0AWG5DD-6" value="&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;构造分区子图&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="315" y="152" width="105" height="40" as="geometry" />
+          <mxGeometry x="340" y="300" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i07ReR63tDp5S0AWG5DD-9" value="随机红蓝着色，&lt;div&gt;生成分区集合P&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="602.5" y="152" width="105" height="40" as="geometry" />
@@ -27,6 +27,9 @@
         </mxCell>
         <mxCell id="i07ReR63tDp5S0AWG5DD-12" value="&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;&amp;nbsp;输入：相似&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;图&lt;/font&gt;&lt;i style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;G&lt;/i&gt;&lt;font face=&quot;宋体&quot;&gt;,&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial; font-family: 宋体;&quot;&gt;误差&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial; font-family: 宋体;&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="602.5" y="70" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i07ReR63tDp5S0AWG5DD-13" value="&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;随机红蓝着色，&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;生成分区集合&lt;i&gt;P&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="181" y="162" width="99" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
