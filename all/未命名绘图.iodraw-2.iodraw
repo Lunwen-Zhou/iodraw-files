@@ -101,7 +101,7 @@
           <mxGeometry x="390" y="405" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="T6O3PV9HhsFmtWYfhQnZ-13" value="&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;是&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="478.21" y="480" width="25" height="20" as="geometry" />
+          <mxGeometry x="490" y="400" width="25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="T6O3PV9HhsFmtWYfhQnZ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=blockThin;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="T6O3PV9HhsFmtWYfhQnZ-15">
           <mxGeometry relative="1" as="geometry">
@@ -125,7 +125,7 @@
         <mxCell id="T6O3PV9HhsFmtWYfhQnZ-21" value="&lt;b style=&quot;font-family: 宋体;&quot;&gt;合并xy→z&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="545" y="393" width="99" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="T6O3PV9HhsFmtWYfhQnZ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T6O3PV9HhsFmtWYfhQnZ-22" target="T6O3PV9HhsFmtWYfhQnZ-23">
+        <mxCell id="T6O3PV9HhsFmtWYfhQnZ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=blockThin;endFill=0;" edge="1" parent="1" source="T6O3PV9HhsFmtWYfhQnZ-22" target="T6O3PV9HhsFmtWYfhQnZ-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T6O3PV9HhsFmtWYfhQnZ-22" value="&lt;div&gt;&lt;b style=&quot;font-family: 宋体;&quot;&gt;在树状图中记录合并操作&lt;/b&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;" vertex="1" parent="1">
