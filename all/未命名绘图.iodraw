@@ -16,6 +16,14 @@
         <mxCell id="MZU15J6hMvxBcBHsixuE-3" value="&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;初始化最小堆T：&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;计算&amp;nbsp; &amp;nbsp;中&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;所有边&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;(&lt;/span&gt;&lt;i style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;u&lt;/i&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;,&lt;/span&gt;&lt;i style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;v&lt;/i&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;)&lt;/span&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;的&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;goodness(&lt;i&gt;u&lt;/i&gt;,&lt;i&gt;v&lt;/i&gt;)&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;值&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="330.03" y="172.5" width="129.97" height="66.25" as="geometry" />
         </mxCell>
+        <mxCell id="MZU15J6hMvxBcBHsixuE-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MZU15J6hMvxBcBHsixuE-4" target="MZU15J6hMvxBcBHsixuE-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="544" y="40" />
+              <mxPoint x="680" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MZU15J6hMvxBcBHsixuE-4" value="&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;G&lt;/i&gt;&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;是否仍含边&lt;/font&gt;&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="489.43" y="180.62" width="110" height="50" as="geometry" />
         </mxCell>
