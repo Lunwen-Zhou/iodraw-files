@@ -34,6 +34,9 @@
         <mxCell id="MZU15J6hMvxBcBHsixuE-10" value="&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;对z所有活跃邻接顶点k，计算&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;goodness(&lt;i&gt;z&lt;/i&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;,&lt;i&gt;k&lt;/i&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;)&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="289.68" width="99" height="42.5" as="geometry" />
         </mxCell>
+        <mxCell id="MZU15J6hMvxBcBHsixuE-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="629" y="61.56" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
