@@ -95,6 +95,9 @@
         <mxCell id="MZU15J6hMvxBcBHsixuE-37" value="&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;是&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="582.12" y="177.78" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="MZU15J6hMvxBcBHsixuE-43" value="&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;初始化&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="91.56" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
