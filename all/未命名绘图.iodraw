@@ -20,8 +20,14 @@
         <mxCell id="T6O3PV9HhsFmtWYfhQnZ-24" value="&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;输出合并序列&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="484.43" y="360" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="MZU15J6hMvxBcBHsixuE-27" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=blockThin;endFill=0;" edge="1" parent="1" source="MZU15J6hMvxBcBHsixuE-1" target="MZU15J6hMvxBcBHsixuE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MZU15J6hMvxBcBHsixuE-1" value="&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;&amp;nbsp;输入分区子图&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-weight: bold;&quot; face=&quot;宋体&quot;&gt;活跃顶点集&lt;/font&gt;&lt;i style=&quot;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;A&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="180.62" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MZU15J6hMvxBcBHsixuE-26" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=blockThin;endFill=0;" edge="1" parent="1" source="MZU15J6hMvxBcBHsixuE-2" target="MZU15J6hMvxBcBHsixuE-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MZU15J6hMvxBcBHsixuE-2" value="&lt;div&gt;&lt;font style=&quot;font-weight: bold;&quot; face=&quot;宋体&quot;&gt;标记非活跃&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-weight: bold;&quot; face=&quot;宋体&quot;&gt;顶点&lt;/font&gt;&lt;font style=&quot;background-color: initial; font-weight: bold;&quot; face=&quot;宋体&quot;&gt;集&lt;/font&gt;&lt;font style=&quot;background-color: initial;&quot; face=&quot;Times New Roman&quot;&gt;&lt;i&gt;V&amp;nbsp;&lt;/i&gt;&lt;b&gt;\&amp;nbsp;&lt;/b&gt;&lt;i&gt;A&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="208" y="184.37" width="99" height="42.5" as="geometry" />
@@ -33,6 +39,9 @@
           <mxGeometry x="330.03" y="172.5" width="129.97" height="66.25" as="geometry" />
         </mxCell>
         <mxCell id="MZU15J6hMvxBcBHsixuE-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=blockThin;endFill=0;" edge="1" parent="1" source="MZU15J6hMvxBcBHsixuE-4" target="MZU15J6hMvxBcBHsixuE-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MZU15J6hMvxBcBHsixuE-25" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=blockThin;endFill=0;" edge="1" parent="1" source="MZU15J6hMvxBcBHsixuE-4" target="T6O3PV9HhsFmtWYfhQnZ-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MZU15J6hMvxBcBHsixuE-4" value="" style="rhombus;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
