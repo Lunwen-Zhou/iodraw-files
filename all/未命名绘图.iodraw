@@ -4,6 +4,16 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MZU15J6hMvxBcBHsixuE-23" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=blockThin;endFill=0;" edge="1" parent="1" source="MZU15J6hMvxBcBHsixuE-16" target="MZU15J6hMvxBcBHsixuE-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="370" />
+              <mxPoint x="820" y="370" />
+              <mxPoint x="820" y="42" />
+              <mxPoint x="544" y="42" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MZU15J6hMvxBcBHsixuE-16" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="629" y="61.56" width="141" height="288.44" as="geometry" />
         </mxCell>
@@ -15,6 +25,9 @@
         </mxCell>
         <mxCell id="MZU15J6hMvxBcBHsixuE-2" value="&lt;div&gt;&lt;font style=&quot;font-weight: bold;&quot; face=&quot;宋体&quot;&gt;标记非活跃&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-weight: bold;&quot; face=&quot;宋体&quot;&gt;顶点&lt;/font&gt;&lt;font style=&quot;background-color: initial; font-weight: bold;&quot; face=&quot;宋体&quot;&gt;集&lt;/font&gt;&lt;font style=&quot;background-color: initial;&quot; face=&quot;Times New Roman&quot;&gt;&lt;i&gt;V&amp;nbsp;&lt;/i&gt;&lt;b&gt;\&amp;nbsp;&lt;/b&gt;&lt;i&gt;A&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="208" y="184.37" width="99" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MZU15J6hMvxBcBHsixuE-24" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=blockThin;endFill=0;" edge="1" parent="1" source="MZU15J6hMvxBcBHsixuE-3" target="MZU15J6hMvxBcBHsixuE-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MZU15J6hMvxBcBHsixuE-3" value="&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;初始化最小堆T：&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;计算&amp;nbsp; &amp;nbsp;中&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;所有边&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;(&lt;/span&gt;&lt;i style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;u&lt;/i&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;,&lt;/span&gt;&lt;i style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;v&lt;/i&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;)&lt;/span&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;的&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;goodness(&lt;i&gt;u&lt;/i&gt;,&lt;i&gt;v&lt;/i&gt;)&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;值&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="330.03" y="172.5" width="129.97" height="66.25" as="geometry" />
