@@ -103,8 +103,8 @@
         <mxCell id="T6O3PV9HhsFmtWYfhQnZ-38" value="&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;初始化&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="226.5" y="295" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="MZU15J6hMvxBcBHsixuE-1" value="&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;&amp;nbsp;输入分区子图&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;活跃顶点集&lt;/font&gt;&lt;i style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;A&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="50.000000000000014" y="740" width="120" height="40" as="geometry" />
+        <mxCell id="MZU15J6hMvxBcBHsixuE-1" value="&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;&amp;nbsp;输入分区子图&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;活跃顶点集&lt;/font&gt;&lt;i style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;A&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="740" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MZU15J6hMvxBcBHsixuE-2" value="&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;标记非活跃顶点集&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="200.61" y="738.75" width="99" height="42.5" as="geometry" />
