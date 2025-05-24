@@ -7,6 +7,9 @@
         <mxCell id="MZU15J6hMvxBcBHsixuE-16" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="71.56" width="141" height="288.44" as="geometry" />
         </mxCell>
+        <mxCell id="W3J7BVRk_HMyZywqltTy-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MZU15J6hMvxBcBHsixuE-1" target="W3J7BVRk_HMyZywqltTy-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MZU15J6hMvxBcBHsixuE-1" value="&lt;font style=&quot;font-weight: bold;&quot; face=&quot;宋体&quot;&gt;&amp;nbsp;输入&lt;/font&gt;&lt;font style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/i&gt;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-weight: bold;&quot; face=&quot;宋体&quot;&gt;当前轮次相似图&lt;/font&gt;&lt;i style=&quot;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;G&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/i&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="181.56" width="120" height="50" as="geometry" />
         </mxCell>
@@ -19,8 +22,14 @@
         <mxCell id="MZU15J6hMvxBcBHsixuE-17" value="&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;循&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-family: 宋体; background-color: initial;&quot;&gt;环&lt;/b&gt;&lt;b style=&quot;font-family: 宋体; background-color: initial;&quot;&gt;体&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="669.5" y="31.560000000000002" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="W3J7BVRk_HMyZywqltTy-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MZU15J6hMvxBcBHsixuE-4" target="MZU15J6hMvxBcBHsixuE-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MZU15J6hMvxBcBHsixuE-4" value="&lt;font style=&quot;font-weight: bold;&quot; face=&quot;宋体&quot;&gt;&amp;nbsp; &amp;nbsp;还有&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-weight: bold;&quot; face=&quot;宋体&quot;&gt;未处理的分区?&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;flipH=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="430" y="176.95" width="119.43" height="59.22" as="geometry" />
+        </mxCell>
+        <mxCell id="W3J7BVRk_HMyZywqltTy-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="W3J7BVRk_HMyZywqltTy-1" target="MZU15J6hMvxBcBHsixuE-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="W3J7BVRk_HMyZywqltTy-1" value="" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="305" y="185.31" width="99" height="42.5" as="geometry" />
