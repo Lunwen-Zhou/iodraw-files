@@ -89,8 +89,11 @@
         <mxCell id="W3J7BVRk_HMyZywqltTy-25" value="&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;是&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="660" y="272.5" width="25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W3J7BVRk_HMyZywqltTy-26" value="&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;是&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="519.62" y="150" width="25" height="30" as="geometry" />
+        <mxCell id="W3J7BVRk_HMyZywqltTy-26" value="&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;否&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="141.5" width="25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W3J7BVRk_HMyZywqltTy-27" value="&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;否&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="218.5" width="25" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
